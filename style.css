@@ -1,0 +1,63 @@
+
+           .intro {
+                text-align: left;
+           }
+
+           .profile-pic {
+            text-align: center;
+           }
+           body {
+                background-color: ivory;
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+            }
+            p {
+                font-size: 21px;
+            }
+
+            h1 {
+                font-size: 48px;
+            }
+
+            h2 {
+                font-size: 36px;
+            }
+            
+            h3 {
+                font-size: 26px;
+            }
+            header {
+                text-align: center;
+                background-color: #113b42;
+                color: ivory;
+                padding: 50px;
+                margin: auto;
+            }
+
+            .timeline{
+                text-align: left;
+            }
+
+            main {
+                text-align: center;
+                color: dimgray;
+                width: 950px;
+                margin :50px auto 50px; 
+            }
+
+            footer {
+                background-color: rgb(10, 82, 100);
+                padding: 40px
+            }
+
+            .blocks {
+                text-align: center;
+                color: white;
+                display: flex;
+                margin: 30px auto 30px;
+                width: 1200px;
+            }
+
+            .links {
+                margin:auto;
+            }
+                        
